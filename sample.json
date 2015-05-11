@@ -1,0 +1,16 @@
+{
+ "studentId" : 1,
+ "class" : 8,
+ "name" : "Ravi",
+ "marks" : [
+  { "totalMarks" : 500, "percent" : 83.3 },
+  { "totalMarks" : 510, "percent" : 85 } ],
+},
+{
+ "studentId" : 2,
+ "name" : "Rupa",
+ "class" : 8,
+ "marks" : [
+  { "totalMarks" : 570, "percent" : 95 },
+  { "totalMarks" : 576, "percent" : 96 } ]
+}

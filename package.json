@@ -1,0 +1,7 @@
+{
+  "name": "node-rest-mongo",
+  "description": "connecting to mongo ",
+  "author": "Hanumesh  <hanumesh.palla59@gmail.com>",
+  "dependencies": {
+    "mongo": "*"
+  }
